@@ -1,0 +1,11 @@
+<application>
+  <component name="ServerConfiguration">
+    <option name="tomcatInfos">
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat/8.5.51.2328" />
+        <option name="path" value="$USER_HOME$/local/ali-tomcat-8.5.51" />
+        <option name="version" value="8.5.51.2328" />
+      </TomcatInfo>
+    </option>
+  </component>
+</application>
