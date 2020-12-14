@@ -1528,6 +1528,11 @@
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
                     </value>
                   </entry>
+                  <entry key="com.poratu.idea.plugins.tomcat">
+                    <value>
+                      <FeaturePluginData displayName="Smart Tomcat" pluginName="Smart Tomcat" pluginId="com.poratu.idea.plugins.tomcat" />
+                    </value>
+                  </entry>
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
